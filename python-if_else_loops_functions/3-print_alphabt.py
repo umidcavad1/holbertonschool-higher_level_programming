@@ -1,4 +1,4 @@
-!#/usr/bin/python
+#!/usr/bin/python
 for x in range(97, 123):
     if chr(x) == "q" or chr(x) == "e":
         continue
